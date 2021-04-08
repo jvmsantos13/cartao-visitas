@@ -1,0 +1,40 @@
+@font-face {
+    font-family: MinhaFonte;
+    src: url(fonts/Merienda-Regular.ttf);
+}
+
+@font-face {
+    font-family: MinhaFonte2;
+    src: url(fonts/KiwiMaru-Regular.ttf);
+}
+
+body {
+    background-repeat: no-repeat;
+    width: 400px;
+    height: 200px;
+}
+
+img {
+    height: 30px;
+    width: 30px;
+    padding-left: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-family: MinhaFonte2;
+}
+
+.name {
+    font-family: MinhaFonte;
+    padding-left: 20px;
+}
+
+.description {
+    font-family: MinhaFonte;
+    padding-left: 120px;
+    text-decoration: solid;
+}
+
+
