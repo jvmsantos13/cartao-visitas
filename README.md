@@ -1,4 +1,4 @@
-## Meu cartão de visita feito em HTML E CSS
+## Meu cartão de visita digital feito em HTML E CSS
 <p align="center">Projeto criado somente em HTML e CSS, onde faço um cartão de visitas com link para redes sociais</p>
 
 ### 🛠 Tecnologias
