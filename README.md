@@ -12,7 +12,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 	:computer: Projeto concluído :heavy_check_mark:
 </h4>
 
-*Link do projeto:* https://jvmsantos13.github.io/Cartao-Visitas/
+*Link do projeto:* https://jvmsantos13.github.io/cartao-visitas/
 
 ## Autor
 João Victor Monteiro <br />
